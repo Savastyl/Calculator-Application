@@ -4,6 +4,9 @@ The calculator web application that performs basic arithmetic operations. This a
 
 ![Alt text](Media/1.png)
 
+## Prerequisites
++ Text editor is Visual Studio Code.
+
 ## Built With
 + HTML: Used to create the structure and content of the web page.
 + CSS: Used to style the web page.
